@@ -1,4 +1,4 @@
-#GDI Effects
+GDI Effects
 --------------------------------------
 I'm not responsible for any damages!
 --------------------------------------
